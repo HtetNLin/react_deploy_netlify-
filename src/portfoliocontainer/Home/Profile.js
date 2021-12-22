@@ -14,21 +14,11 @@ const Profile = () => {
 
           <div className="profile-details">
 
-            <div className="colz">
-              <div className="colz-icon">
-                <a href="http://facebook.com">
-                  <i className="fa fa-facebook-square"></i>
-                </a>
-                <a href="">
-                <i className="fa fa-instagram"></i>
-                </a>
-              </div>
-            </div>
-
+           
             <div className="profile-details-name">
               <span className="primary-text1">
                 {""}
-                Hello I'm <span className="highlighted-text">HNL</span>
+                Hi , I'm <span className="highlighted-text">HNL</span>
               </span>
             </div>
             <div className="profile-details-role">
@@ -41,9 +31,9 @@ const Profile = () => {
                     steps={[
                       "Htet Nay Lin",
                       3000,
-                      "Developer",
+                      "Web Developer",
                       3000,
-                      "Htet Nay Lin",
+                      "React",
                       3000,
                       "Developer",
                       3000,
@@ -56,7 +46,7 @@ const Profile = () => {
               </span>
             </div>
             <div className="profile-options">
-              <a href="ehizcv.pdf" download="ehizcv.pdf">
+              <a href="hnl.pdf" download="hnl.pdf">
                 <button className="btn highlighted-btn">Get Resume</button>
               </a>
             </div>

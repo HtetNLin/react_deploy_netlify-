@@ -12,7 +12,7 @@ const About = () => {
  
     return (
     <div>
-      <h2 className="title" data-aos="flip-left">About me</h2>
+      <h2 className="title" data-aos="fade-up">About me</h2>
       <div className="parent">
         <div className="container1" data-aos="fade-up">
             <div className="container1-background">
@@ -20,14 +20,11 @@ const About = () => {
             </div>
         </div>
 
-        <div className="container2" data-aos="fade-left">
+        <div className="container2" data-aos="fade-up">
           <div className="about-body">
             <p className="script">
               {" "}
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam quo,
-              et nisi assumenda obcaecati expedita officia, enim, eius fugiat id
-              repellendus temporibus vitae quos ipsum? Accusamus, tempore non.
-              Commodi, eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores pariatur aliquam consequuntur autem alias culpa facere. Labore accusamus repellendus alias dolores ratione facilis libero at, animi dolorem nisi amet corrupti.
+              Hi , I'm Htet Nay Lin , junior web developer with background knowledge of MERN stack.I'm really passionate about learning new technologies and other programing languages or frameworks.Enable to do working with respect to team structure unity and maintaining the progress with good communication either in the team work or also in dealing with others.
             </p>
           </div>
         </div>
